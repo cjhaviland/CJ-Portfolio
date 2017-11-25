@@ -138,6 +138,6 @@ footer {
   color: black;
 }
 
-.case-study-link a {
-  color: black;
+.case-study-link {
+  color: black !important;
 }
